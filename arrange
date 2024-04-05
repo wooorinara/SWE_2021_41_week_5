@@ -1,0 +1,81 @@
+#! /bin/sh
+
+mv ../files/A* ../SWE_2021_41_week_5/a
+mv ../files/a* ../SWE_2021_41_week_5/a
+
+mv ../files/B* ../SWE_2021_41_week_5/b
+mv ../files/b* ../SWE_2021_41_week_5/b
+
+mv ../files/C* ../SWE_2021_41_week_5/c
+mv ../files/c* ../SWE_2021_41_week_5/c
+
+mv ../files/D* ../SWE_2021_41_week_5/d
+mv ../files/d* ../SWE_2021_41_week_5/d
+
+mv ../files/E* ../SWE_2021_41_week_5/e
+mv ../files/e* ../SWE_2021_41_week_5/e
+
+mv ../files/F* ../SWE_2021_41_week_5/f
+mv ../files/f* ../SWE_2021_41_week_5/f
+
+mv ../files/G* ../SWE_2021_41_week_5/g
+mv ../files/g* ../SWE_2021_41_week_5/g
+
+mv ../files/H* ../SWE_2021_41_week_5/h
+mv ../files/h* ../SWE_2021_41_week_5/h
+
+mv ../files/I* ../SWE_2021_41_week_5/i
+mv ../files/i* ../SWE_2021_41_week_5/i
+
+mv ../files/J* ../SWE_2021_41_week_5/j
+mv ../files/j* ../SWE_2021_41_week_5/j
+
+mv ../files/K* ../SWE_2021_41_week_5/k
+mv ../files/k* ../SWE_2021_41_week_5/k
+
+mv ../files/L* ../SWE_2021_41_week_5/l
+mv ../files/l* ../SWE_2021_41_week_5/l
+
+mv ../files/M* ../SWE_2021_41_week_5/m
+mv ../files/m* ../SWE_2021_41_week_5/m
+
+mv ../files/N* ../SWE_2021_41_week_5/n
+mv ../files/n* ../SWE_2021_41_week_5/n
+
+mv ../files/O* ../SWE_2021_41_week_5/o
+mv ../files/o* ../SWE_2021_41_week_5/o
+
+mv ../files/P* ../SWE_2021_41_week_5/p
+mv ../files/p* ../SWE_2021_41_week_5/p
+
+mv ../files/Q* ../SWE_2021_41_week_5/q
+mv ../files/q* ../SWE_2021_41_week_5/q
+
+mv ../files/R* ../SWE_2021_41_week_5/r
+mv ../files/r* ../SWE_2021_41_week_5/r
+
+mv ../files/S* ../SWE_2021_41_week_5/s
+mv ../files/s* ../SWE_2021_41_week_5/s
+
+mv ../files/T* ../SWE_2021_41_week_5/t
+mv ../files/t* ../SWE_2021_41_week_5/t
+
+mv ../files/U* ../SWE_2021_41_week_5/u
+mv ../files/u* ../SWE_2021_41_week_5/u
+
+mv ../files/V* ../SWE_2021_41_week_5/v
+mv ../files/v* ../SWE_2021_41_week_5/v
+
+mv ../files/W* ../SWE_2021_41_week_5/w
+mv ../files/w* ../SWE_2021_41_week_5/w
+
+mv ../files/X* ../SWE_2021_41_week_5/x
+mv ../files/x* ../SWE_2021_41_week_5/x
+
+mv ../files/Y* ../SWE_2021_41_week_5/y
+mv ../files/y* ../SWE_2021_41_week_5/y
+
+mv ../files/Z* ../SWE_2021_41_week_5/z
+mv ../files/z* ../SWE_2021_41_week_5/z
+
+
